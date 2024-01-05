@@ -1,0 +1,353 @@
+.flash-sale {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
+  position: relative;
+}
+
+.flash-sale .tiu {
+  display: flex;
+  width: 358px;
+  align-items: flex-start;
+  justify-content: space-between;
+  position: absolute;
+  top: 17px;
+  left: 16px;
+}
+
+.flash-sale .h-ng-b-n-ch-y {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "SF Compact Rounded-Semibold", Helvetica;
+  font-weight: 400;
+  color: #101828;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.flash-sale .component {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.flash-sale .text-wrapper {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "SF Compact Rounded-Semibold", Helvetica;
+  font-weight: 400;
+  color: #f68b1f;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.flash-sale .clip-path-group {
+  position: relative;
+  width: 10px;
+  height: 10px;
+}
+
+.flash-sale .div {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.flash-sale .backgroud {
+  position: relative;
+  width: 390px;
+  height: 266px;
+}
+
+.flash-sale .main {
+  display: flex;
+  width: 374px;
+  align-items: flex-start;
+  gap: 16px;
+  position: absolute;
+  top: 50px;
+  left: 16px;
+  overflow: hidden;
+  overflow-x: scroll;
+}
+
+.flash-sale .overlap-wrapper {
+  position: relative;
+  width: 157px;
+  height: 200px;
+}
+
+.flash-sale .overlap {
+  position: relative;
+  width: 153px;
+  height: 200px;
+  background-image: url(./img/group-3.png);
+  background-size: 100% 100%;
+}
+
+.flash-sale .overlap-group {
+  position: absolute;
+  width: 153px;
+  height: 117px;
+  top: 0;
+  left: 0;
+  background-image: url(./img/food-photo-2.png);
+  background-size: 100% 100%;
+}
+
+.flash-sale .buage {
+  display: flex;
+  flex-wrap: wrap;
+  width: 46px;
+  align-items: center;
+  justify-content: space-around;
+  gap: 10px 10px;
+  padding: 2px;
+  position: relative;
+  top: 8px;
+  left: 99px;
+  background-color: #ee0033;
+  border-radius: 4px 8px 0px 4px;
+  overflow: hidden;
+  box-shadow: 0px 4px 12px #0000001f;
+}
+
+.flash-sale .text-wrapper-2 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "SF Pro Display-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 10px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.flash-sale .text-wrapper-3 {
+  position: absolute;
+  width: 137px;
+  top: 128px;
+  left: 8px;
+  font-family: "SF Compact Rounded-Semibold", Helvetica;
+  font-weight: 400;
+  color: #101828;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.flash-sale .element-KIP {
+  left: 47px;
+  position: absolute;
+  top: 152px;
+  font-family: "SF Pro Display-Bold", Helvetica;
+  font-weight: 700;
+  color: #f68b1f;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.flash-sale .group {
+  position: absolute;
+  width: 137px;
+  height: 20px;
+  top: 176px;
+  left: 10px;
+}
+
+.flash-sale .overlap-group-2 {
+  position: relative;
+  width: 135px;
+  height: 20px;
+}
+
+.flash-sale .sale {
+  position: absolute;
+  width: 135px;
+  height: 14px;
+  top: 0;
+  left: 0;
+}
+
+.flash-sale .img {
+  width: 109px;
+  position: absolute;
+  height: 14px;
+  top: 0;
+  left: 0;
+}
+
+.flash-sale .text-wrapper-4 {
+  position: absolute;
+  top: 2px;
+  left: 48px;
+  font-family: "SF Pro Display-Medium", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 8px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.flash-sale .group-2 {
+  position: absolute;
+  width: 12px;
+  height: 19px;
+  top: 1px;
+  left: 1px;
+}
+
+.flash-sale .overlap-2 {
+  position: relative;
+  width: 153px;
+  height: 200px;
+  background-image: url(./img/group.png);
+  background-size: 100% 100%;
+}
+
+.flash-sale .buage-wrapper {
+  position: absolute;
+  width: 153px;
+  height: 117px;
+  top: 0;
+  left: 0;
+  background-image: url(./img/food-photo.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.flash-sale .element-KIP-2 {
+  left: 44px;
+  position: absolute;
+  top: 152px;
+  font-family: "SF Pro Display-Bold", Helvetica;
+  font-weight: 700;
+  color: #f68b1f;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.flash-sale .sale-2 {
+  width: 128px;
+  position: absolute;
+  height: 14px;
+  top: 0;
+  left: 0;
+}
+
+.flash-sale .text-wrapper-5 {
+  position: absolute;
+  top: 2px;
+  left: 42px;
+  font-family: "SF Pro Display-Medium", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 8px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.flash-sale .overlap-3 {
+  position: relative;
+  width: 153px;
+  height: 200px;
+  background-image: url(./img/group-2.png);
+  background-size: 100% 100%;
+}
+
+.flash-sale .div-wrapper {
+  position: absolute;
+  width: 153px;
+  height: 117px;
+  top: 0;
+  left: 0;
+  background-image: url(./img/image.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.flash-sale .element-KIP-3 {
+  position: absolute;
+  top: 152px;
+  left: 33px;
+  font-family: "SF Pro Display-Bold", Helvetica;
+  font-weight: 700;
+  color: #f68b1f;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.flash-sale .time {
+  position: absolute;
+  width: 124px;
+  height: 24px;
+  top: 13px;
+  left: 88px;
+}
+
+.flash-sale .overlap-4 {
+  position: relative;
+  width: 120px;
+  height: 24px;
+  background-image: url(./img/rectangle-15186.png);
+  background-size: 100% 100%;
+}
+
+.flash-sale .overlap-group-3 {
+  position: absolute;
+  width: 49px;
+  height: 24px;
+  top: 0;
+  left: 0;
+  background-image: url(./img/path-75482.svg);
+  background-size: 100% 100%;
+}
+
+.flash-sale .hot {
+  position: absolute;
+  top: 4px;
+  left: 6px;
+  font-family: "SF Pro Text-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.flash-sale .group-3 {
+  position: absolute;
+  width: 12px;
+  height: 24px;
+  top: 0;
+  left: 36px;
+}
+
+.flash-sale .text-wrapper-6 {
+  position: absolute;
+  top: 4px;
+  left: 49px;
+  font-family: "SF Pro Text-Bold", Helvetica;
+  font-weight: 700;
+  color: #f04438;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}

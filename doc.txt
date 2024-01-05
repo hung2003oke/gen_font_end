@@ -1,0 +1,324 @@
+<div class="CoHoiNgheNghiep" style="width: 100%; height: 100%; position: relative; background: white">
+<div class="Rectangle11067" style="width: 1920px; height: 831px; left: 6px; top: 4914px; position: absolute; background: black"></div>
+<img class="Image21" style="width: 1577px; height: 1195px; left: 141px; top: 4746px; position: absolute" src="https://via.placeholder.com/1577x1195" />
+<div class="Rectangle11133" style="width: 1920px; height: 197px; left: 26px; top: 4717px; position: absolute; background: white"></div>
+<div class="Rectangle11128" style="width: 1926px; height: 322px; left: 0px; top: 5745px; position: absolute; background: white"></div>
+<img class="MaskGroup10934" style="width: 3723px; height: 921px; left: -796px; top: 1761px; position: absolute" src="https://via.placeholder.com/3723x921" />
+<img class="C38a62151" style="width: 1393px; height: 878px; left: 533px; top: 50px; position: absolute" src="https://via.placeholder.com/1393x878" />
+<div class="Rectangle11079" style="width: 534px; height: 928px; left: -1px; top: 0px; position: absolute; background: #F00033"></div>
+<div class="Frame3" style="padding-left: 72px; padding-right: 72px; padding-top: 32px; padding-bottom: 32px; left: 0px; top: 0px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 10px; display: inline-flex">
+<img class="Asset31" style="width: 136px; height: 46px" src="https://via.placeholder.com/136x46" />
+</div>
+<div class="Rectangle11080" style="width: 1387px; height: 928px; left: 533px; top: 0px; position: absolute; background: rgba(0, 0, 0, 0.32)"></div>
+<div class="Group2" style="width: 248px; height: 68px; left: 274px; top: 546px; position: absolute">
+<div class="Rectangle13" style="width: 248px; height: 68px; left: 0px; top: 0px; position: absolute; background: white; border-radius: 36px"></div>
+<div class="FindOutNow" style="left: 59px; top: 22px; position: absolute; color: #EE0033; font-size: 20px; font-family: Inter; font-weight: 500; text-transform: capitalize; word-wrap: break-word">Find out now</div>
+</div>
+<div class="Frame2" style="padding-top: 10px; padding-bottom: 10px; left: 500px; top: 81px; position: absolute; justify-content: center; align-items: center; gap: 56px; display: inline-flex">
+<div class="AboutUs" style="color: white; font-size: 16px; font-family: Inter; font-weight: 500; word-wrap: break-word">About us</div>
+<div class="ProductService" style="color: white; font-size: 16px; font-family: Inter; font-weight: 500; word-wrap: break-word">Product & Service</div>
+<div class="ClientPartner" style="color: white; font-size: 16px; font-family: Inter; font-weight: 500; word-wrap: break-word">Client partner</div>
+<div class="NewsEvent" style="color: white; font-size: 16px; font-family: Inter; font-weight: 500; word-wrap: break-word">News & Event</div>
+<div class="CareerOpportunities" style="color: white; font-size: 16px; font-family: Inter; font-weight: 500; word-wrap: break-word">Career opportunities</div>
+<div class="Contact" style="color: white; font-size: 16px; font-family: Inter; font-weight: 500; word-wrap: break-word">Contact</div>
+</div>
+<div class="Vector6" style="width: 918.05px; height: 1.05px; left: 500.45px; top: 78.95px; position: absolute; border: 1px white solid"></div>
+<div class="Language" style="left: 1729px; top: 45px; position: absolute; color: white; font-size: 16px; font-family: Inter; font-weight: 500; word-wrap: break-word">Language</div>
+<div class="Frame" style="width: 19px; height: 19px; left: 1813px; top: 45px; position: absolute">
+<div class="Vector" style="width: 11.08px; height: 6.05px; left: 3.96px; top: 6.48px; position: absolute; background: white"></div>
+</div>
+<div class="WeAccompanyYouInYourCareerDevelopmentProvidingAFriendlyHighTechWorkingEnvironmentHereYouNotOnlyDevelopYourselfButAlsoContributeToChangingAndCreatingADigitalSociety" style="width: 1143px; height: 212px; left: 274px; top: 245px; position: absolute; color: white; font-size: 44px; font-family: Inter; font-weight: 700; word-wrap: break-word">We accompany you in your career development, providing a friendly, high-tech working environment. Here, you not only develop yourself, but also contribute to changing and creating a digital society.</div>
+<div class="Vector1" style="width: 162px; height: 0px; left: 1139px; top: 80.04px; position: absolute; border: 3px #EE0033 solid"></div>
+<div class="TrainingIsTheWelfareOfEmployeesThereforeAtVtitTheDevelopmentAndEmployeeExperienceIsAlwaysOurTopPriorityIn2022VtitHasInvestedMoreThan1BillionToDeployNearly100TrainingCoursesForPersonnelFromStaffToManagementTeamInManyFormsOnlineAndOffline" style="left: 520px; top: 2108px; position: absolute; text-align: center; color: black; font-size: 36px; font-family: Inter; font-weight: 400; word-wrap: break-word">"Training is the welfare of employees", therefore, <br/>at VTIT, the development and employee experience <br/>is always our top priority.<br/>In 2022, VTIT has invested more than 1 billion to <br/>deploy nearly 100 training courses for personnel <br/>from staff to management team in many forms: <br/>Online and Offline.</div>
+<div class="Preface" style="left: 880px; top: 2016px; position: absolute; color: #EE0033; font-size: 44px; font-family: Inter; font-weight: 700; word-wrap: break-word">Preface</div>
+<div class="Path50762" style="width: 634.08px; height: 611.70px; left: 1513px; top: 2345.98px; position: absolute; transform: rotate(-7.07deg); transform-origin: 0 0; border: 4px rgba(238, 0, 51, 0.60) solid"></div>
+<div class="Path50762" style="width: 640.27px; height: 617.68px; left: 1469.10px; top: 2336.23px; position: absolute; transform: rotate(-7.07deg); transform-origin: 0 0; border: 4px rgba(238, 0, 51, 0.30) solid"></div>
+<div class="Path50762" style="width: 681.08px; height: 657.05px; left: 1431px; top: 2322.98px; position: absolute; transform: rotate(-7.07deg); transform-origin: 0 0; border: 4px rgba(238, 0, 51, 0.10) solid"></div>
+<div class="Path50762" style="width: 634.08px; height: 611.70px; left: 1557px; top: 2360.84px; position: absolute; transform: rotate(-7.07deg); transform-origin: 0 0; background: #1F2326; border: 4px #EE0033 solid"></div>
+<div class="MaskGroup" style="width: 725.35px; height: 682.26px; left: 1557px; top: 2283px; position: absolute">
+<div class="Path50762" style="width: 634.08px; height: 611.70px; left: 0px; top: 78.05px; position: absolute; transform: rotate(-7.07deg); transform-origin: 0 0; background: #1F2326; border: 4px #EE0033 solid"></div>
+<img class="C38a6276Copy" style="width: 937px; height: 624px; left: -308px; top: 0px; position: absolute" src="https://via.placeholder.com/937x624" />
+</div>
+<div class="Rectangle11127" style="width: 1926px; height: 532px; left: 0px; top: 2620px; position: absolute; background: white"></div>
+<div class="ArrowDown11" style="width: 24px; height: 24px; left: 1654px; top: 2892px; position: absolute">
+<div class="Vector" style="width: 17.34px; height: 8.60px; left: 3.33px; top: 8.20px; position: absolute; background: black"></div>
+</div>
+<div class="ArrowDown12" style="width: 24px; height: 24px; left: 1654px; top: 3119px; position: absolute">
+<div class="Vector" style="width: 17.34px; height: 8.60px; left: 3.33px; top: 8.20px; position: absolute; background: black"></div>
+</div>
+<div class="ArrowDown13" style="width: 24px; height: 24px; left: 1654px; top: 3226px; position: absolute">
+<div class="Vector" style="width: 17.34px; height: 8.60px; left: 3.33px; top: 8.20px; position: absolute; background: black"></div>
+</div>
+<div class="Path50762" style="width: 634.08px; height: 611.70px; left: 390.85px; top: 2028.91px; position: absolute; transform: rotate(146.15deg); transform-origin: 0 0; border: 4px rgba(238, 0, 51, 0.60) solid"></div>
+<div class="Path50762" style="width: 640.27px; height: 617.68px; left: 434.43px; top: 2017.84px; position: absolute; transform: rotate(146.15deg); transform-origin: 0 0; border: 4px rgba(238, 0, 51, 0.30) solid"></div>
+<div class="Path50762" style="width: 681.08px; height: 657.05px; left: 474.42px; top: 2012.50px; position: absolute; transform: rotate(146.15deg); transform-origin: 0 0; border: 4px rgba(238, 0, 51, 0.10) solid"></div>
+<div class="Path50762" style="width: 634.08px; height: 611.70px; left: 344.87px; top: 2035.47px; position: absolute; transform: rotate(146.15deg); transform-origin: 0 0; background: #1F2326; border: 4px #EE0033 solid"></div>
+<div class="MaskGroup" style="width: 725.35px; height: 682.26px; left: 379.94px; top: 2104.97px; position: absolute; transform: rotate(153.22deg); transform-origin: 0 0">
+<div class="Path50762" style="width: 634.08px; height: 611.70px; left: -35.16px; top: -69.68px; position: absolute; transform: rotate(146.15deg); transform-origin: 0 0; background: #1F2326; border: 4px #EE0033 solid"></div>
+<img class="C38a6276Copy" style="width: 937px; height: 624px; left: 274.97px; top: -138.76px; position: absolute; transform: rotate(153.22deg); transform-origin: 0 0" src="https://via.placeholder.com/937x624" />
+</div>
+<div class="Rectangle11126" style="width: 1926px; height: 347px; left: -51px; top: 1391px; position: absolute; background: white"></div>
+<div class="MaskGroup" style="width: 884.62px; height: 861.59px; left: -540px; top: 1533px; position: absolute">
+<div class="Path50762" style="width: 634.08px; height: 611.70px; left: 884.62px; top: 502.27px; position: absolute; transform: rotate(146.15deg); transform-origin: 0 0; background: white"></div>
+<img class="C38a6215" style="width: 913px; height: 673px; left: 292px; top: 270px; position: absolute" src="https://via.placeholder.com/913x673" />
+</div>
+<div class="Rectangle11119" style="width: 1920px; height: 692px; left: 0px; top: 3568px; position: absolute; background: #F6F6F6"></div>
+<div class="Rectangle11130" style="width: 310px; height: 298px; left: 629px; top: 3836px; position: absolute; background: white; box-shadow: 0px 0px 24px rgba(0, 0, 0, 0.02); border-radius: 8px"></div>
+<div class="Rectangle11131" style="width: 311px; height: 298px; left: 986px; top: 3836px; position: absolute; background: white; box-shadow: 0px 0px 24px rgba(0, 0, 0, 0.02); border-radius: 8px"></div>
+<div class="Rectangle11132" style="width: 310px; height: 298px; left: 1344px; top: 3836px; position: absolute; background: white; box-shadow: 0px 0px 24px rgba(0, 0, 0, 0.02); border-radius: 8px"></div>
+<div class="EnjoyBasicBenefitsOfEmployeesSickVisitBirthdayFruit" style="left: 671px; top: 3990px; position: absolute; color: black; font-size: 20px; font-family: Inter; font-weight: 600; word-wrap: break-word">Enjoy basic benefits of <br/>Employees: Sick visit, <br/>Birthday fruit, ...</div>
+<div class="EnjoyInsuranceBenefitsAccordingToTheLaw" style="left: 1018px; top: 3990px; position: absolute; color: black; font-size: 20px; font-family: Inter; font-weight: 600; word-wrap: break-word">Enjoy Insurance benefits <br/>according to the Law</div>
+<div class="Frame" style="width: 56px; height: 56px; left: 1028px; top: 3878px; position: absolute">
+<div class="Group" style="width: 42.66px; height: 56px; left: 6.67px; top: 0px; position: absolute">
+<div class="Vector" style="width: 42.66px; height: 56px; left: 0px; top: 0px; position: absolute; background: linear-gradient(0deg, #00B59C 0%, #9CFFAC 100%)"></div>
+<div class="Vector" style="width: 22.97px; height: 22.97px; left: 9.84px; top: 16.52px; position: absolute; background: linear-gradient(0deg, #C3FFE8 0%, #F0FFF4 100%)"></div>
+</div>
+</div>
+<div class="BeRewardedAccordingToAchievementsProjectsCompetitions" style="left: 1376px; top: 3990px; position: absolute; color: black; font-size: 20px; font-family: Inter; font-weight: 600; word-wrap: break-word">Be rewarded according <br/>to: achievements, <br/>projects, competitions, ...</div>
+<div class="Frame" style="width: 56px; height: 56px; left: 671px; top: 3878px; position: absolute">
+<div class="Vector" style="width: 44.40px; height: 56px; left: 5.80px; top: 0px; position: absolute; background: linear-gradient(90deg, #4D62FF 0%, #466AFF 19%, #3480FF 49%, #17A3FF 86%, #0AB3FF 100%)"></div>
+</div>
+<div class="Ellipse9" style="width: 90px; height: 90px; left: 378px; top: 4550px; position: absolute; background: #EE0033; border-radius: 9999px"></div>
+<div class="Ellipse10" style="width: 90px; height: 90px; left: 736px; top: 4550px; position: absolute; background: #EE0033; border-radius: 9999px"></div>
+<div class="Ellipse11" style="width: 90px; height: 90px; left: 1094px; top: 4550px; position: absolute; background: #EE0033; border-radius: 9999px"></div>
+<div class="Ellipse12" style="width: 90px; height: 90px; left: 1451px; top: 4550px; position: absolute; background: #EE0033; border-radius: 9999px"></div>
+<div style="left: 412px; top: 4569px; position: absolute; color: white; font-size: 44px; font-family: Inter; font-weight: 700; word-wrap: break-word">1</div>
+<div style="left: 767px; top: 4569px; position: absolute; color: white; font-size: 44px; font-family: Inter; font-weight: 700; word-wrap: break-word">2</div>
+<div style="left: 1124px; top: 4569px; position: absolute; color: white; font-size: 44px; font-family: Inter; font-weight: 700; word-wrap: break-word">3</div>
+<div style="left: 1481px; top: 4569px; position: absolute; color: white; font-size: 44px; font-family: Inter; font-weight: 700; word-wrap: break-word">4</div>
+<div class="RecruitmentProcess" style="left: 735px; top: 4388px; position: absolute; color: #EE0033; font-size: 44px; font-family: Inter; font-weight: 700; text-transform: capitalize; word-wrap: break-word">Recruitment process</div>
+<div class="Recruitment" style="left: 350px; top: 4672px; position: absolute; color: black; font-size: 24px; font-family: Inter; font-weight: 700; word-wrap: break-word">Recruitment</div>
+<div class="Interview" style="left: 708px; top: 4672px; position: absolute; color: black; font-size: 24px; font-family: Inter; font-weight: 700; word-wrap: break-word">Interview</div>
+<div class="ResultAnnouncement" style="left: 1011px; top: 4672px; position: absolute; text-align: center; color: black; font-size: 24px; font-family: Inter; font-weight: 700; word-wrap: break-word">Result announcement</div>
+<div class="Onboarding" style="left: 1423px; top: 4672px; position: absolute; color: black; font-size: 24px; font-family: Inter; font-weight: 700; word-wrap: break-word">Onboarding</div>
+<div class="SendYourCvAndApplyNowVtitAlwaysOffersCareerOpportunitiesThatMatchYourOrientation" style="left: 289px; top: 4717px; position: absolute; text-align: center; color: black; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 24px; word-wrap: break-word">Send your CV and apply now, VTIT <br/>always offers career opportunities <br/>that match your orientation</div>
+<div class="AnOpportunityForUsToGetToKnowYouBetterAndForYouToGetToKnowUsBetter" style="width: 267px; height: 72px; left: 647px; top: 4717px; position: absolute; text-align: center; color: black; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 24px; word-wrap: break-word">An opportunity for us to get to know you better and for you to get to know us better</div>
+<div class="ReceiveNotificationOfResultsFromRecruitmentDepartmentOfVtit" style="width: 267px; height: 72px; left: 1005px; top: 4717px; position: absolute; text-align: center; color: black; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 24px; word-wrap: break-word">Receive notification of results from recruitment department of VTIT</div>
+<div class="WelcomeToTheCommonHouseVtitLetSStartTheBrilliantJourneyWithUs" style="width: 281px; height: 72px; left: 1362px; top: 4717px; position: absolute; text-align: center; color: black; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 24px; word-wrap: break-word">Welcome to the common house VTIT<br/>Let's start the "brilliant journey" with us!</div>
+<div class="Group19738" style="width: 208.50px; height: 39.50px; left: 499px; top: 4570px; position: absolute">
+<div class="Vector11" style="width: 203px; height: 32px; left: 0px; top: 0px; position: absolute; border: 1px #707070 solid"></div>
+<div class="Vector12" style="width: 13.50px; height: 20.50px; left: 195px; top: 19px; position: absolute; border: 1px #707070 solid"></div>
+</div>
+<div class="Group19739" style="width: 208.50px; height: 39.50px; left: 854px; top: 4569px; position: absolute">
+<div class="Vector11" style="width: 203px; height: 32px; left: 0px; top: 0px; position: absolute; border: 1px #707070 solid"></div>
+<div class="Vector12" style="width: 13.50px; height: 20.50px; left: 195px; top: 19px; position: absolute; border: 1px #707070 solid"></div>
+</div>
+<div class="Group19740" style="width: 208.50px; height: 39.50px; left: 1212px; top: 4569px; position: absolute">
+<div class="Vector11" style="width: 203px; height: 32px; left: 0px; top: 0px; position: absolute; border: 1px #707070 solid"></div>
+<div class="Vector12" style="width: 13.50px; height: 20.50px; left: 195px; top: 19px; position: absolute; border: 1px #707070 solid"></div>
+</div>
+<div class="Rectangle11125" style="width: 1923px; height: 313px; left: 0px; top: 5768px; position: absolute; background: white"></div>
+<div class="Group19714" style="width: 2038.80px; height: 751.45px; left: 200px; top: 5740px; position: absolute">
+<div class="Path50762" style="width: 634.08px; height: 611.70px; left: 1242px; top: 82.84px; position: absolute; transform: rotate(-7.07deg); transform-origin: 0 0; background: #27282A"></div>
+<div class="GiIThiU" style="width: 106px; height: 17.63px; left: 489px; top: 122.38px; position: absolute; color: black; font-size: 16px; font-family: Inter; font-weight: 400; text-transform: uppercase; word-wrap: break-word">About us</div>
+<div class="TrangCh" style="width: 76px; height: 17.68px; left: 489px; top: 89.43px; position: absolute; color: black; font-size: 16px; font-family: Inter; font-weight: 400; text-transform: uppercase; word-wrap: break-word">Home</div>
+<div class="Th5thFloorThanhCongTower80DichVongHauCauGiayHaNoi" style="width: 273px; height: 40.02px; left: 830px; top: 137.43px; position: absolute">
+<div class="Th5thFloorThanhCongTower" style="width: 253px; height: 17.68px; left: 0px; top: 0px; position: absolute; color: black; font-size: 16px; font-family: Inter; font-weight: 400; word-wrap: break-word">4th-5th Floor, Thanh Cong Tower</div>
+<div class="DichVongHauCauGiayHaNoi" style="width: 273px; height: 17.68px; left: 0px; top: 22.34px; position: absolute; color: black; font-size: 16px; font-family: Inter; font-weight: 400; word-wrap: break-word">80 Dich Vong Hau, Cau Giay, Ha Noi</div>
+</div>
+<div class="VssViettelComVn" style="width: 148px; height: 17.68px; left: 860px; top: 219.32px; position: absolute; color: black; font-size: 16px; font-family: Inter; font-weight: 400; word-wrap: break-word">Vss@viettel.com.vn</div>
+<div class="84999887777" style="width: 127px; height: 17.68px; left: 860px; top: 257.48px; position: absolute; color: black; font-size: 16px; font-family: Inter; font-weight: 400; word-wrap: break-word">+84 999 887777</div>
+<div class="TuyNDNg" style="width: 183px; height: 17.63px; left: 489px; top: 155.69px; position: absolute; color: black; font-size: 16px; font-family: Inter; font-weight: 400; text-transform: uppercase; word-wrap: break-word">Product & Service</div>
+<div class="LiNH" style="width: 140px; height: 17.63px; left: 489px; top: 188.99px; position: absolute; color: black; font-size: 16px; font-family: Inter; font-weight: 400; text-transform: uppercase; word-wrap: break-word">Client partner</div>
+<div class="LiNH" style="width: 154px; height: 17.63px; left: 489px; top: 222.29px; position: absolute; color: black; font-size: 16px; font-family: Inter; font-weight: 400; text-transform: uppercase; word-wrap: break-word">News & Event</div>
+<div class="LiNH" style="width: 200px; height: 17.63px; left: 489px; top: 255.60px; position: absolute; color: black; font-size: 16px; font-family: Inter; font-weight: 400; text-transform: uppercase; word-wrap: break-word">Career opportunities</div>
+<div class="LiNH" style="width: 157px; height: 27.43px; left: 830px; top: 91.04px; position: absolute; color: black; font-size: 24px; font-family: Inter; font-weight: 400; text-transform: uppercase; word-wrap: break-word">Contact</div>
+<div class="Path63580" style="width: 16.33px; height: 12.35px; left: 184.49px; top: 192.09px; position: absolute; background: black"></div>
+<div class="Group19656" style="width: 19.65px; height: 18.67px; left: 120.20px; top: 189.58px; position: absolute">
+<div class="Path63577" style="width: 6.41px; height: 4.69px; left: 9.82px; top: 0px; position: absolute; background: black"></div>
+<div class="Path63578" style="width: 9.83px; height: 11.03px; left: 9.82px; top: 7.64px; position: absolute; background: black"></div>
+<div class="Path63579" style="width: 9.82px; height: 18.64px; left: 0px; top: 0.01px; position: absolute; background: black"></div>
+</div>
+<div class="Group19657" style="width: 19.03px; height: 18.67px; left: 60.50px; top: 189.58px; position: absolute">
+<div class="Path63573" style="width: 19.03px; height: 18.67px; left: 0px; top: 0px; position: absolute; opacity: 0.50; background: rgba(0, 0, 0, 0.36)"></div>
+<div class="Path63574" style="width: 2.29px; height: 6.39px; left: 6px; top: 4.27px; position: absolute; background: black"></div>
+<div class="Path63575" style="width: 2.29px; height: 6.39px; left: 11.73px; top: 4.27px; position: absolute; background: black"></div>
+</div>
+<div class="Group19658" style="width: 20.04px; height: 18.70px; left: 0px; top: 189.58px; position: absolute">
+<div class="Path63570" style="width: 20.04px; height: 18.65px; left: 0px; top: 0px; position: absolute; opacity: 0.50; background: rgba(0, 0, 0, 0.36)"></div>
+<div class="Path63571" style="width: 7.96px; height: 15.01px; left: 6.99px; top: 3.69px; position: absolute; background: black"></div>
+</div>
+<div class="ClipPathGroup" style="width: 16px; height: 14.89px; left: 830px; top: 219.32px; position: absolute">
+<div class="Rectangle11059" style="width: 16px; height: 14.89px; left: 0px; top: 0px; position: absolute; background: black"></div>
+<div class="Letter" style="width: 16.01px; height: 12.41px; left: 0px; top: 1.24px; position: absolute">
+<div class="Path65064" style="width: 16px; height: 8.68px; left: 0px; top: 3.73px; position: absolute; background: #FF0033"></div>
+<div class="Path65065" style="width: 16.01px; height: 6.95px; left: 0px; top: 0px; position: absolute; background: #FF0033"></div>
+</div>
+</div>
+<div class="ClipPathGroup" style="width: 16px; height: 14.89px; left: 830px; top: 260.27px; position: absolute">
+<div class="Rectangle11060" style="width: 16px; height: 14.89px; left: 0px; top: 0px; position: absolute; background: black"></div>
+<div class="Path65063" style="width: 16px; height: 14.89px; left: -0px; top: 0px; position: absolute; background: #FF0033"></div>
+</div>
+<div class="Copyright2021SoftByViettelSoftwareServices" style="width: 390px; height: 17.68px; left: 0px; top: 249.72px; position: absolute; color: black; font-size: 16px; font-family: Inter; font-weight: 400; word-wrap: break-word">Copyright © 2023 Soft by Viettel Software</div>
+<div class="Path50762" style="width: 634.08px; height: 611.70px; left: 1313.46px; top: 142.44px; position: absolute; transform: rotate(-7.07deg); transform-origin: 0 0; background: #1F2326; border: 0.50px white solid"></div>
+</div>
+<img class="Asset22" style="width: 173px; height: 59px; left: 200px; top: 5819px; position: absolute" src="https://via.placeholder.com/173x59" />
+<div class="RemunerationPoliy" style="left: 283px; top: 3662px; position: absolute; text-align: center"><span style="color: #D9D9D9; font-size: 66px; font-family: Inter; font-weight: 700; text-transform: capitalize; line-height: 60px; word-wrap: break-word">Remuneration </span><span style="color: #D9D9D9; font-size: 66px; font-family: Inter; font-weight: 700; text-transform: lowercase; line-height: 60px; word-wrap: break-word">p</span><span style="color: #D9D9D9; font-size: 66px; font-family: Inter; font-weight: 700; text-transform: capitalize; line-height: 60px; word-wrap: break-word">oliy</span></div>
+<div class="RemunerationPolicy" style="left: 271px; top: 3684px; position: absolute; color: black; font-size: 44px; font-family: Inter; font-weight: 700; word-wrap: break-word">Remuneration policy</div>
+<div class="Rectangle11116" style="width: 470px; height: 246px; left: 262px; top: 2766px; position: absolute; background: #C6C6C6; border-top-left-radius: 56px; border-top-right-radius: 56px"></div>
+<div class="Rectangle11134" style="width: 242px; height: 246px; left: 262px; top: 3046px; position: absolute; background: #C6C6C6; border-top-left-radius: 56px; border-top-right-radius: 56px"></div>
+<div class="Rectangle11135" style="width: 381px; height: 387px; left: 541px; top: 3046px; position: absolute; background: #C6C6C6; border-top-left-radius: 56px; border-top-right-radius: 56px"></div>
+<div class="OutstandingTrainingProgram" style="left: 1025px; top: 2750px; position: absolute; color: black; font-size: 44px; font-family: Inter; font-weight: 600; word-wrap: break-word">Outstanding training program</div>
+<div class="InformationTechnologyInternTrainingProgram" style="left: 1025px; top: 2865px; position: absolute; color: #EE0033; font-size: 24px; font-family: Inter; font-weight: 700; word-wrap: break-word">Information Technology Intern Training Program</div>
+<div class="PracticalTrainingProgramOnProjectManagement" style="left: 1026px; top: 3114px; position: absolute; color: #EE0033; font-size: 24px; font-family: Inter; font-weight: 700; word-wrap: break-word">Practical training program on Project Management</div>
+<div class="TrainingProgramVssLeadershipDevelopment" style="left: 1025px; top: 3223px; position: absolute; color: #EE0033; font-size: 24px; font-family: Inter; font-weight: 700; word-wrap: break-word">Training program: "VSS Leadership Development"</div>
+<div class="Vector13" style="width: 652px; height: 0px; left: 1026px; top: 3074px; position: absolute; border: 1px #D9D9D9 solid"></div>
+<div class="Vector14" style="width: 652px; height: 0px; left: 1026px; top: 3183px; position: absolute; border: 1px #D9D9D9 solid"></div>
+<div class="Vector15" style="width: 652px; height: 0px; left: 1025px; top: 3292px; position: absolute; border: 1px #D9D9D9 solid"></div>
+<div class="TrainingCoursesForInternsMajoringInItAtMajorSchoolsSuchAsUniversityOfScienceAndTechnologyUniversityOfPostsAndTelecommunicationsNationalUniversityOfTechnologyUniversityOfNaturalSciencesUniversityOfNaturalResourcesEnvironment" style="left: 1025px; top: 2918px; position: absolute; color: black; font-size: 20px; font-family: Inter; font-weight: 400; word-wrap: break-word">Training courses for interns majoring in IT at major schools <br/>such as: University of Science and Technology, University <br/>of Posts and Telecommunications, National University of <br/>Technology, University of Natural Sciences, University of <br/>Natural Resources & Environment.</div>
+<div class="Group19711" style="width: 248px; height: 68px; left: 1025px; top: 3354px; position: absolute">
+<div class="Rectangle13" style="width: 248px; height: 68px; left: 0px; top: 0px; position: absolute; background: #EE0033; border-radius: 36px"></div>
+<div class="SeeMore" style="left: 79px; top: 22px; position: absolute; color: white; font-size: 20px; font-family: Inter; font-weight: 500; text-transform: capitalize; word-wrap: break-word">see more</div>
+</div>
+<div class="Frame" style="width: 56px; height: 56px; left: 1386px; top: 3878px; position: absolute">
+<div class="Vector" style="width: 49.83px; height: 41.33px; left: 3.11px; top: 7.42px; position: absolute; background: linear-gradient(135deg, #FC00FF 0%, #00DBDE 100%)"></div>
+</div>
+<img class="C38a6276Copy1" style="width: 310px; height: 298px; left: 271px; top: 3836px; position: absolute; border-radius: 8px" src="https://via.placeholder.com/310x298" />
+<div class="Rectangle11129" style="width: 310px; height: 298px; left: 271px; top: 3836px; position: absolute; background: linear-gradient(360deg, rgba(238, 0, 51, 0.80) 0%, rgba(238, 0, 51, 0) 100%); border-radius: 8px"></div>
+<div class="Group7" style="left: 323px; top: 3888px; position: absolute">
+<div class="Days" style="left: 0px; top: 0px; position: absolute; color: white; font-size: 44px; font-family: Inter; font-weight: 900; word-wrap: break-word">7 Days</div>
+<div class="ThereAre7DaysOffWithFullPay" style="left: 0px; top: 97px; position: absolute; color: white; font-size: 20px; font-family: Inter; font-weight: 600; word-wrap: break-word">There are 7 days off <br/>with full pay</div>
+</div>
+<div class="ChACNIDung" style="left: 754px; top: 5344px; position: absolute; text-align: center; color: white; font-size: 56px; font-family: Inter; font-weight: 700; text-transform: capitalize; line-height: 60px; word-wrap: break-word">Chưa có nội dung</div>
+<img class="Image45" style="width: 371px; height: 400px; left: 774px; top: 783px; position: absolute; border-radius: 8px" src="https://via.placeholder.com/371x400" />
+<div class="Group19729" style="width: 372px; height: 400px; left: 774px; top: 783px; position: absolute">
+<div class="Rectangle11129" style="width: 372px; height: 400px; left: 0px; top: 0px; position: absolute; background: rgba(238, 0, 51, 0.80); border-radius: 8px"></div>
+<div class="ItExpertsInTheFieldsBfsiLogisticTelecomManufactoringHealthcareWholesalesRetail" style="left: 52px; top: 223px; position: absolute; color: white; font-size: 20px; font-family: Inter; font-weight: 400; word-wrap: break-word">450+ IT experts in the <br/>fields: BFSI, Logistic, <br/>Telecom, Manufactoring, <br/>Healthcare, Wholesales <br/>& Retail…</div>
+<div style="width: 197px; height: 54px; left: 52px; top: 89px; position: absolute; color: black; font-size: 140px; font-family: Inter; font-weight: 700; line-height: 44px; word-wrap: break-word">01</div>
+<div class="Personnel" style="left: 97px; top: 127px; position: absolute; color: white; font-size: 36px; font-family: Inter; font-weight: 700; word-wrap: break-word">Personnel</div>
+</div>
+<img class="Image46" style="width: 371px; height: 400px; left: 1224px; top: 783px; position: absolute; border-radius: 8px" src="https://via.placeholder.com/371x400" />
+<div class="Group19730" style="width: 372px; height: 400px; left: 1224px; top: 783px; position: absolute">
+<div class="Rectangle11129" style="width: 372px; height: 400px; left: 0px; top: 0px; position: absolute; background: rgba(238, 0, 51, 0.80); border-radius: 8px"></div>
+<div class="MultinationalItAndTelecommunicationsInfrastructure" style="left: 52px; top: 223px; position: absolute; color: white; font-size: 20px; font-family: Inter; font-weight: 400; word-wrap: break-word">Multinational IT and <br/>telecommunications <br/>infrastructure<br/></div>
+<div style="width: 197px; left: 52px; top: 89px; position: absolute; color: black; font-size: 140px; font-family: Inter; font-weight: 700; line-height: 44px; word-wrap: break-word">02</div>
+<div class="Scale" style="left: 177px; top: 127px; position: absolute; color: white; font-size: 36px; font-family: Inter; font-weight: 700; word-wrap: break-word">Scale</div>
+</div>
+<img class="Image47" style="width: 372px; height: 400px; left: 323px; top: 1261px; position: absolute; border-radius: 8px" src="https://via.placeholder.com/372x400" />
+<div class="Group19733" style="width: 372px; height: 400px; left: 323px; top: 1261px; position: absolute">
+<div class="Rectangle11129" style="width: 372px; height: 400px; left: 0px; top: 0px; position: absolute; background: rgba(0, 0, 0, 0.60); border-radius: 8px"></div>
+<div class="ModernManagementSystemsAndToolsAiBigDataMlBlockchainIot" style="left: 52px; top: 223px; position: absolute; color: white; font-size: 20px; font-family: Inter; font-weight: 400; word-wrap: break-word">Modern management <br/>systems and tools: <br/>AI/Big Data, ML, <br/>Blockchain, IOT</div>
+<div style="width: 197px; height: 54px; left: 52px; top: 89px; position: absolute; color: #D9D9D9; font-size: 140px; font-family: Inter; font-weight: 700; line-height: 44px; word-wrap: break-word">03</div>
+<div class="Technology" style="left: 97px; top: 127px; position: absolute; color: #EE0033; font-size: 36px; font-family: Inter; font-weight: 700; word-wrap: break-word">Technology</div>
+</div>
+<img class="Image48" style="width: 372px; height: 400px; left: 774px; top: 1261px; position: absolute; border-radius: 8px" src="https://via.placeholder.com/372x400" />
+<div class="Group19731" style="width: 372px; height: 400px; left: 773px; top: 1261px; position: absolute">
+<div class="Rectangle11129" style="width: 372px; height: 400px; left: 0px; top: 0px; position: absolute; background: rgba(0, 0, 0, 0.60); border-radius: 8px"></div>
+<div class="ExperienceInQualityManagementProfessionalCustomerCare" style="left: 52px; top: 223px; position: absolute; color: white; font-size: 20px; font-family: Inter; font-weight: 400; word-wrap: break-word">Experience in quality <br/>management, <br/>professional customer <br/>care</div>
+<div style="width: 197px; height: 54px; left: 52px; top: 89px; position: absolute; color: #D9D9D9; font-size: 140px; font-family: Inter; font-weight: 700; line-height: 44px; word-wrap: break-word">04</div>
+<div class="Time" style="left: 187px; top: 127px; position: absolute; color: #EE0033; font-size: 36px; font-family: Inter; font-weight: 700; word-wrap: break-word">Time</div>
+</div>
+<img class="27527146382066373382628771905147892N1" style="width: 371px; height: 400px; left: 1224px; top: 1261px; position: absolute; border-radius: 8px" src="https://via.placeholder.com/371x400" />
+<div class="Group19732" style="width: 372px; height: 400px; left: 1223px; top: 1261px; position: absolute">
+<div class="Rectangle11129" style="width: 372px; height: 400px; left: 0px; top: 0px; position: absolute; background: rgba(0, 0, 0, 0.60); border-radius: 8px"></div>
+<div class="WideNetworkOfCustomersAndPartnersInTheCountryAndAbroad" style="left: 52px; top: 223px; position: absolute; color: white; font-size: 20px; font-family: Inter; font-weight: 400; word-wrap: break-word">Wide network of <br/>customers and partners <br/>in the country and <br/>abroad</div>
+<div style="width: 197px; left: 52px; top: 89px; position: absolute; color: #D9D9D9; font-size: 140px; font-family: Inter; font-weight: 700; line-height: 44px; word-wrap: break-word">05</div>
+<div class="Client" style="left: 177px; top: 127px; position: absolute; color: #EE0033; font-size: 36px; font-family: Inter; font-weight: 700; word-wrap: break-word">Client</div>
+</div>
+<img class="23646474036678586371830502315255198N" style="width: 470px; height: 246px; left: 262px; top: 2766px; position: absolute; border-top-left-radius: 58px; border-top-right-radius: 58px" src="https://via.placeholder.com/470x246" />
+<img class="23646465936679398413213180061659525N" style="width: 381px; height: 387px; left: 541px; top: 3046px; position: absolute; border-top-left-radius: 58px; border-top-right-radius: 58px" src="https://via.placeholder.com/381x387" />
+<img class="55245571242929316341142568186934821N" style="width: 242px; height: 246px; left: 262px; top: 3046px; position: absolute; border-top-left-radius: 56px; border-top-right-radius: 56px" src="https://via.placeholder.com/242x246" />
+<div class="NavbarLogoLeft" style="width: 1440px; padding-left: 24px; padding-right: 24px; left: 140px; top: 651px; position: absolute; background: white; justify-content: center; align-items: flex-start; display: inline-flex">
+<div class="Navbarcontainer" style="height: 69px; justify-content: center; align-items: center; display: flex">
+<div class="NavbarContent" style="height: 69px; justify-content: space-between; align-items: center; display: flex">
+<div class="NavbarBrand" style="justify-content: flex-start; align-items: flex-start; display: flex">
+<img class="Logo" style="width: 141px; height: 36px" src="https://via.placeholder.com/141x36" />
+</div>
+<div class="WhyChooseUs" style="color: black; font-size: 44px; font-family: Inter; font-weight: 700; word-wrap: break-word">Why choose US ? </div>
+<div class="NavbarMenu" style="justify-content: flex-start; align-items: center; gap: 32px; display: flex">
+<div class="NavbarLink" style="padding-left: 12px; padding-right: 12px; padding-top: 24px; padding-bottom: 24px; justify-content: flex-start; align-items: flex-start; display: flex">
+<div class="About" style="color: black; font-size: 14px; font-family: Inter; font-weight: 400; line-height: 21px; word-wrap: break-word">About</div>
+</div>
+<div class="NavbarLink" style="padding-left: 12px; padding-right: 12px; padding-top: 24px; padding-bottom: 24px; justify-content: flex-start; align-items: flex-start; display: flex">
+<div class="Features" style="color: black; font-size: 14px; font-family: Inter; font-weight: 400; line-height: 21px; word-wrap: break-word">Features</div>
+</div>
+<div class="NavbarLink" style="padding-left: 12px; padding-right: 12px; padding-top: 24px; padding-bottom: 24px; justify-content: flex-start; align-items: flex-start; display: flex">
+<div class="Pricing" style="color: black; font-size: 14px; font-family: Inter; font-weight: 400; line-height: 21px; word-wrap: break-word">Pricing</div>
+</div>
+<div class="NavbarButton" style="padding-left: 20px; padding-right: 20px; padding-top: 8px; padding-bottom: 8px; background: black; justify-content: center; align-items: center; gap: 8px; display: flex">
+<div class="GetStarted" style="color: white; font-size: 12px; font-family: Inter; font-weight: 500; line-height: 16.80px; word-wrap: break-word">GET STARTED</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="NavbarLogoLeft" style="width: 1440px; padding-left: 24px; padding-right: 24px; left: 64px; top: 1183px; position: absolute; background: white; justify-content: center; align-items: flex-start; display: inline-flex">
+<div class="Navbarcontainer" style="height: 69px; justify-content: center; align-items: center; display: flex">
+<div class="NavbarContent" style="height: 69px; justify-content: space-between; align-items: center; display: flex">
+<div class="NavbarBrand" style="justify-content: flex-start; align-items: flex-start; display: flex">
+<img class="Logo" style="width: 141px; height: 36px" src="https://via.placeholder.com/141x36" />
+</div>
+<div class="NavbarMenu" style="justify-content: flex-start; align-items: center; gap: 32px; display: flex">
+<div class="NavbarLink" style="padding-left: 12px; padding-right: 12px; padding-top: 24px; padding-bottom: 24px; justify-content: flex-start; align-items: flex-start; display: flex">
+<div class="About" style="color: black; font-size: 14px; font-family: Inter; font-weight: 400; line-height: 21px; word-wrap: break-word">About</div>
+</div>
+<div class="NavbarLink" style="padding-left: 12px; padding-right: 12px; padding-top: 24px; padding-bottom: 24px; justify-content: flex-start; align-items: flex-start; display: flex">
+<div class="Features" style="color: black; font-size: 14px; font-family: Inter; font-weight: 400; line-height: 21px; word-wrap: break-word">Features</div>
+</div>
+<div class="NavbarLink" style="padding-left: 12px; padding-right: 12px; padding-top: 24px; padding-bottom: 24px; justify-content: flex-start; align-items: flex-start; display: flex">
+<div class="Pricing" style="color: black; font-size: 14px; font-family: Inter; font-weight: 400; line-height: 21px; word-wrap: break-word">Pricing</div>
+</div>
+<div class="NavbarButton" style="padding-left: 20px; padding-right: 20px; padding-top: 8px; padding-bottom: 8px; background: black; justify-content: center; align-items: center; gap: 8px; display: flex">
+<div class="GetStarted" style="color: white; font-size: 12px; font-family: Inter; font-weight: 500; line-height: 16.80px; word-wrap: break-word">GET STARTED</div>
+</div>
+</div>
+</div>
+</div>
+<div class="HeroHeadingLeft" style="width: 1440px; align-self: stretch; padding-left: 24px; padding-right: 24px; padding-top: 64px; padding-bottom: 64px; background: white; justify-content: center; align-items: flex-start; gap: 80px; display: flex">
+<div class="Container" style="height: 392.90px; justify-content: flex-start; align-items: center; gap: 80px; display: flex">
+<div class="Column" style="flex: 1 1 0; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 24px; display: inline-flex">
+<div class="Content" style="align-self: stretch; height: 266px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 24px; display: flex">
+<div class="H1TitleCopyGoesHereBeAwesome" style="align-self: stretch; color: black; font-size: 56px; font-family: Inter; font-weight: 700; line-height: 67.20px; word-wrap: break-word">Title Copy Goes Here Be Awesome</div>
+<div class="PLoremIpsumDolorSitAmetConsecteturAdipiscingElitSuspendisseVariusEnimInErosElementumTristiqueDuisCursusMiQuisViverraOrnareErosDolorInterdumNullaUtCommodoDiamLiberoVitaeErat" style="align-self: stretch; color: #212121; font-size: 18px; font-family: Inter; font-weight: 400; line-height: 27px; word-wrap: break-word">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat.</div>
+</div>
+<div class="Actions" style="padding-top: 16px; justify-content: flex-start; align-items: flex-start; gap: 16px; display: inline-flex">
+<div class="Button" style="padding-left: 24px; padding-right: 24px; padding-top: 12px; padding-bottom: 12px; background: black; justify-content: center; align-items: center; gap: 8px; display: flex">
+<div class="GetStarted" style="color: white; font-size: 12px; font-family: Inter; font-weight: 500; line-height: 16.80px; word-wrap: break-word">GET STARTED</div>
+</div>
+</div>
+</div>
+<div class="Column" style="flex: 1 1 0; height: 392.90px; justify-content: flex-start; align-items: flex-start; gap: 10px; display: flex">
+<div class="ImageWrapper" style="flex: 1 1 0; flex-direction: column; justify-content: center; align-items: center; display: inline-flex">
+<img class="Image" style="align-self: stretch" src="https://via.placeholder.com/560x393" />
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="Rectangle1" style="width: 1387px; height: 397px; left: 643px; top: 1198px; position: absolute; background: linear-gradient(180deg, black 0%, rgba(0, 0, 0, 0) 100%)"></div>
+<div class="Group4371" style="width: 52px; height: 52px; left: 1798px; top: 808px; position: absolute">
+<div class="Path65174" style="width: 52px; height: 52px; left: 0px; top: 0px; position: absolute; background: #EE0033"></div>
+<div class="ClipPathGroup" style="width: 20px; height: 20px; left: 16px; top: 36px; position: absolute; transform: rotate(-90deg); transform-origin: 0 0">
+<div class="Rectangle2518" style="width: 20px; height: 20px; left: 0px; top: 0px; position: absolute; transform: rotate(-90deg); transform-origin: 0 0; background: black"></div>
+<div class="ArrowBack2" style="width: 20px; height: 16px; left: 2.01px; top: 0px; position: absolute; transform: rotate(-90deg); transform-origin: 0 0">
+<div class="Path233" style="width: 20px; height: 1.69px; left: 7.14px; top: 0px; position: absolute; transform: rotate(-90deg); transform-origin: 0 0; background: white"></div>
+<div class="Path234" style="width: 8.86px; height: 16px; left: 0px; top: -11.14px; position: absolute; transform: rotate(-90deg); transform-origin: 0 0; background: white"></div>
+</div>
+</div>
+</div>
+<div class="Group19822" style="width: 52px; height: 52px; left: 1722px; top: 808px; position: absolute">
+<div class="Group19820" style="width: 52px; height: 52px; left: 0px; top: 0px; position: absolute">
+<div class="Path65174" style="width: 52px; height: 52px; left: 0px; top: 0px; position: absolute; background: white"></div>
+<div class="ClipPathGroup" style="width: 20px; height: 20px; left: 16px; top: 36px; position: absolute; transform: rotate(-90deg); transform-origin: 0 0">
+<div class="Rectangle2518" style="width: 20px; height: 20px; left: 0px; top: 0px; position: absolute; transform: rotate(-90deg); transform-origin: 0 0; background: black"></div>
+<div class="ArrowBack2" style="width: 20px; height: 16px; left: 2.01px; top: 0px; position: absolute; transform: rotate(-90deg); transform-origin: 0 0">
+<div class="Path233" style="width: 20px; height: 1.69px; left: 7.14px; top: 0px; position: absolute; transform: rotate(-90deg); transform-origin: 0 0; background: #EE0033"></div>
+<div class="Path234" style="width: 8.86px; height: 16px; left: 0px; top: -11.14px; position: absolute; transform: rotate(-90deg); transform-origin: 0 0; background: #EE0033"></div>
+</div>
+</div>
+</div>
+<div class="Group198211" style="width: 37.65px; height: 27.10px; left: 7px; top: 14px; position: absolute">
+<div class="Group19821" style="width: 37.65px; height: 27.11px; left: -0px; top: 0px; position: absolute">
+<div class="Path65165" style="width: 37.65px; height: 27.11px; left: 0px; top: 0px; position: absolute; background: #EE0033"></div>
+<div class="Path65166" style="width: 26.75px; height: 16.67px; left: 5.62px; top: 6.26px; position: absolute; background: white"></div>
+<div class="Path65167" style="width: 2.76px; height: 2.76px; left: 6.80px; top: 4.21px; position: absolute; background: white"></div>
+<div class="Path65168" style="width: 2.76px; height: 2.76px; left: 29.41px; top: 3.54px; position: absolute; background: white"></div>
+<div class="Path65169" style="width: 5.06px; height: 4.55px; left: 7.90px; top: 5.29px; position: absolute; background: white"></div>
+<div class="Path65170" style="width: 4.54px; height: 5.09px; left: 26.39px; top: 4.91px; position: absolute; background: white"></div>
+<div class="Path65171" style="width: 3.68px; height: 3.68px; left: 14.04px; top: 11.57px; position: absolute; background: #EE0033"></div>
+<div class="Path65172" style="width: 3.68px; height: 3.68px; left: 25.79px; top: 11.57px; position: absolute; background: #EE0033"></div>
+<div class="Path65173" style="width: 3.42px; height: 1.14px; left: 20.09px; top: 14.67px; position: absolute; background: #EE0033"></div>
+</div>
+</div>
+</div>
+</div>
