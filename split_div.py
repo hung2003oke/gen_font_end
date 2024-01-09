@@ -140,11 +140,10 @@ class SplitDiv:
         return self.result
 
     def fun_clear_div(self, raw_div):
-        # clear_div = raw_div
-        # clear_div = re.sub(r'src="(.*)"', 'src=""', clear_div)
-        # clear_div = re.sub(r'>.*?</div>', '></div>', clear_div)
-        # return clear_div
-        return re.sub(r'src="(.*)"', 'src=""', re.sub(r'>.*?</div>', '></div>', raw_div))
+        clear_div = raw_div
+        clear_div = re.sub(r'src="(.*)"', 'src=""', clear_div)
+        clear_div = re.sub(r'>.*?</div>', '></div>', clear_div)
+        return clear_div
 
     def find_matching_component(self , modified_divs):
         n = len(modified_divs)
