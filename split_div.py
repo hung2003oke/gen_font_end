@@ -20,6 +20,7 @@
 #         self.lines = lines
 #         self.count_space()
 #         self.calculate_start_div()
+#         self.modified_divs = []  # Initialize modified_divs
 #
 #     def count_space(self):
 #         cs = {}
@@ -58,31 +59,38 @@
 #
 #     def fun_clear_div(self, raw_div):
 #         clear_div = raw_div
+#         clear_div = re.sub(r'^\s*', '', clear_div)
+#         clear_div = re.sub(r'\n\s*', '\n', clear_div)
 #         clear_div = re.sub(r'src="(.*)"', 'src=""', clear_div)
 #         clear_div = re.sub(r'>.*?</div>', '></div>', clear_div)
 #         return clear_div
 #
-#     def find_matching_component(self , modified_divs):
-#         n = len(modified_divs)
+#     def find_matching_component(self):
+#         n = len(self.div_list)
 #         matching_pair_advance = []
-#         raw_div= self.modified_divs["text"]
 #         for i in range(n):
 #             for j in range(i + 1, n):
-#                 seq_matcher = SequenceMatcher(None, self.modified_divs[i]['simple'], self.modified_divs[j]['simple'])
+#                 seq_matcher = SequenceMatcher(None, self.div_list[i]['simple'], self.div_list[j]['simple'])
 #                 similarity_ratio = seq_matcher.ratio()
-#                 if similarity_ratio == 1:
-#                     matching_pair_advance.append((self.modified_divs[i]['text'], self.modified_divs[j]['text']))
+#                 if similarity_ratio >= 0.95:
+#                     if self.div_list[i]["simple"] not in matching_pair_advance:
+#                         matching_pair_advance.append(self.div_list[i]['simple'])
+#         self.matching_pair_advance = matching_pair_advance
 #         return matching_pair_advance
 #
-#     def new_div(self):
-#         compare = []
-#         new_css = ''
-#         for css in self.modified_divs:
-#             if css['text'] not in new_css:
-#                 new_css += css['class_name'] + ' ' + css['clear_div'] + '\n\n'
-#             else:
-#                 compare.append(css)
-#         return new_css, compare
+#     def is_child_card(self):
+#         match =[]
+#         for i in range(len(self.matching_pair_advance)):
+#             for j in range(i + 1, len(self.matching_pair_advance)):
+#                 if self.matching_pair_advance[j] in self.div_list[i]["simple"]:
+#                     array_child_card ={
+#                         "child_card" :self.matching_pair_advance[i],
+#                         "father_card" :self.matching_pair_advance[j]
+#                     }
+#                     match.append(array_child_card)
+#         return match
+#                     # print('#' * 100)
+#                     # print(self.matching_pair_advance[j], " là con của ", self.matching_pair_advance[i])
 #
 #
 # def main():
@@ -91,20 +99,21 @@
 #     split_div = SplitDiv()
 #     split_div.set_lines(lines)
 #     split_div.split_div()
-#     # split_div.find_matching_component()
-#     for i in split_div.div_list:
-#         print('\n\n', '#'*100)
-#         print(i['simple'])
-#     # modified_divs = split_div.fun_clear_div()
-#     # split_div.new_div()
+#     split_div.find_matching_component()
+#     # for i in split_div.div_list:
+#     #     print('\n\n', '#'*100)
+#     #     print(i['simple'])
 #     for matching_pair in split_div.matching_pair_advance:
-#         print('\n\n','#'*100)
+#         print('#' * 100)
 #         print(matching_pair)
+#     split_div.is_child_card()
+#
+#     for m in split_div.match:
+#         print(split_div.match)
+#
 #
 # if __name__ == "__main__":
 #     main()
-
-
 import re
 from difflib import SequenceMatcher
 
@@ -122,12 +131,14 @@ class SplitDiv:
         self.div_list = None
         self.modified_divs = None
         self.matching_pair_advance = None
+        self.match = None  # Initialize match attribute
 
     def set_lines(self, lines):
         self.lines = lines
         self.count_space()
         self.calculate_start_div()
         self.modified_divs = []  # Initialize modified_divs
+        self.match = []  # Initialize match attribute
 
     def count_space(self):
         cs = {}
@@ -185,6 +196,16 @@ class SplitDiv:
         self.matching_pair_advance = matching_pair_advance
         return matching_pair_advance
 
+    def is_child_card(self):
+        for i in range(len(self.matching_pair_advance)):
+            for j in range(i + 1, len(self.matching_pair_advance)):
+                if self.matching_pair_advance[j] in self.div_list[i]["simple"]:
+                    array_child_card = {
+                        "child_card": self.matching_pair_advance[i],
+                        "father_card": self.matching_pair_advance[j]
+                    }
+                    self.match.append(array_child_card)
+
 
 def main():
     data = read_data("data.html")
@@ -199,6 +220,10 @@ def main():
     for matching_pair in split_div.matching_pair_advance:
         print('#' * 100)
         print(matching_pair)
+    split_div.is_child_card()
+
+    for m in split_div.match:
+        print(m)
 
 
 if __name__ == "__main__":
