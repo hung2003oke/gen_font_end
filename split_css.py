@@ -91,14 +91,14 @@ def main():
     split_css.set_lines(lines)
     split_css.split_css()
     split_css.simple_css()
-    # split_css.final_matching()
-    # print("==============================")
-    # for css in split_css.matching_pairs:
-    #     print(css)
+    split_css.final_matching()
+    print("==============================")
+    for css in split_css.matching_pairs:
+        print(css)
 
-    new_css, change_css = split_css.create_new_css_file()
-
-    print(new_css)
+    # new_css, change_css = split_css.create_new_css_file()
+    #
+    # print(new_css)
 
 if __name__ == "__main__":
     main()
