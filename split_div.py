@@ -9,7 +9,7 @@ def read_data(filepath):
 
 class SplitDiv:
     def __init__(self):
-        self.list = None
+        self.simple_raw_div_list = None
         self.new_matching_pair_advance = None
         self.lines = None
         self.space_length = None
@@ -115,7 +115,7 @@ class SplitDiv:
                 self.new_matching_pair_advance.append(simple_div)
 
     def get_raw_div(self):
-        self.list = []
+        self.simple_raw_div_list = []
         # indices_to_remove = set()
         for common_simple_div in self.new_matching_pair_advance:
             save = []
@@ -123,28 +123,58 @@ class SplitDiv:
                 if common_simple_div == div["simple"]:
                     save.append(div["text"])
 
-            self.list.append({
+            self.simple_raw_div_list.append({
                 "simple_list": common_simple_div,
                 "raw_div_list": save
             })
 
     # def get_father_of_simple_div(self):
     #     self.father_of_simple_div = []
-    #     for i in range(len(self.list)):
+    #     for i in range(len(self.simple_raw_div_list)):
     #         for j in range(len(self.div_list)):
-    #             if self.list[i]["raw_div_list"] in self.div_list[j]["text"]:
+    #             if self.simple_raw_div_list[i]["raw_div_list"] in self.div_list[j]["text"]:
     #                 self.father_of_simple_div.append(self.div_list[j]["text"])
 
     def get_father_of_simple_div(self):
         self.father_of_simple_div = []
         for i in range(len(self.div_list)):
-            for j in range(len(self.list)):
-                print('j =', j)
-                for raw_div in self.list[j]["raw_div_list"]:
+            for j in range(len(self.simple_raw_div_list)):
+                # print('j =', j)
+                for raw_div in self.simple_raw_div_list[j]["raw_div_list"]:
                     if raw_div in self.div_list[i]["text"] and len(self.div_list[i]["text"]) > len(raw_div):
                         self.father_of_simple_div.append(self.div_list[i]["text"])
                         break
                 break
+
+    def get_father_of_all_simple_div(self):
+        self.infor_father_of_all_simple_div = []
+        for j in range(len(self.simple_raw_div_list)):
+            self.father_of_all_simple_div = []
+            for i in range(len(self.div_list)):
+                cont = 0
+                temp_simple_div = self.div_list[i]["text"]
+
+                for raw_div in self.simple_raw_div_list[j]["raw_div_list"]:
+                    if raw_div in temp_simple_div:
+                        cont += 1
+                        temp_simple_div = temp_simple_div.replace(raw_div, '', 1)
+                    else:
+                        break
+
+                if cont == len(self.simple_raw_div_list[j]["raw_div_list"]) and cont != 0:
+                    self.father_of_all_simple_div.append(self.div_list[i]["text"])
+
+            self.infor_father_of_all_simple_div.append({
+                "sample_list": self.simple_raw_div_list[j]['simple_list'],
+                "simple_raw_div_list": self.simple_raw_div_list[j]["raw_div_list"],
+                "father_of_all_simple_div": self.father_of_all_simple_div
+            })
+        return self.infor_father_of_all_simple_div
+
+    #
+    # def get_nearest_father(self):
+    #     for
+
 
 def main():
     data = read_data("data.html")
@@ -152,25 +182,43 @@ def main():
     split_div = SplitDiv()
     split_div.set_lines(lines)
     split_div.split_div()
+    # for srun in split_div.split_div():
+    #     print("*"*100)
+    #     print(srun)
 
     split_div.find_matching_component()
 
     split_div.is_child_card()
 
     split_div.get_raw_div()
-    for l in split_div.list:
-        print("~"*100)
-        print(l['simple_list'])
-        for r in l['raw_div_list']:
-            print(r)
 
+    # for l in split_div.simple_raw_div_list:
+        # print("~"*100)
+        # print(l['simple_list'])
+        # for r in l['raw_div_list']:
+        #     print(r)
+    #
     split_div.get_father_of_simple_div()
-    for m in split_div.father_of_simple_div:
-        print("-"*100)
-        print(m)
+    # for m in split_div.father_of_simple_div:
+    #     print("-"*100)
+    #     print(m)
+    #
+    # print(len(split_div.list))
+    # print(len(split_div.father_of_simple_div))
 
-    print(len(split_div.list))
-    print(len(split_div.father_of_simple_div))
+    split_div.get_father_of_all_simple_div()
+    for t in split_div.infor_father_of_all_simple_div:
+        print("@"*100)
+        print(t)
+        print("\n")
+        print(t['sample_list'])
+        print("\n")
+        for k in t['simple_raw_div_list']:
+            print('-'*80)
+            print(k)
+        for h in t['father_of_all_simple_div']:
+            print('~'*80)
+            print(h)
 
 
 if __name__ == "__main__":
