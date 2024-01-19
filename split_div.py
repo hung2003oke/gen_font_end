@@ -171,9 +171,37 @@ class SplitDiv:
             })
         return self.infor_father_of_all_simple_div
 
-    #
-    # def get_nearest_father(self):
-    #     for
+    def get_nearest_father(self):
+        self.nearest_father = []
+        for i in range(len(self.father_of_all_simple_div)):
+            for j in range(i+1, len(self.father_of_all_simple_div)):
+                # k = {}
+                for s in range(len(self.simple_raw_div_list)):
+                    if self.father_of_all_simple_div[j] in self.father_of_all_simple_div[i]:
+                        k = self.father_of_all_simple_div[j]
+                        for v in range(j+1, len(self.father_of_all_simple_div)):
+                            if self.father_of_all_simple_div[v] in k:
+                                self.nearest_father.append({
+                                    "component_card": self.simple_raw_div_list[s]['simple_list'],
+                                    "nearest_father": self.father_of_all_simple_div[v]
+                                })
+                    if self.father_of_all_simple_div[i] in self.father_of_all_simple_div[j]:
+                        self.nearest_father.append({
+                            "component_card": self.simple_raw_div_list[s]['simple_list'],
+                            "nearest_father": self.father_of_all_simple_div[i]
+                        })
+
+    def component(self):
+        self.final_component = []
+        t = []
+        z = []
+        for j in range(len(self.father_of_all_simple_div)):
+            z.append(self.father_of_all_simple_div[j].split("\n"))
+            for i in range(len(self.nearest_father)):
+                t.append(self.father_of_all_simple_div[i].split("\n"))
+                if len(t)+2==len(z):
+                    self.final_component.append(self.father_of_all_simple_div[i])
+        return self.final_component
 
 
 def main():
@@ -189,6 +217,9 @@ def main():
     split_div.find_matching_component()
 
     split_div.is_child_card()
+
+    # for f in split_div.new_matching_pair_advance:
+    #     print(f)
 
     split_div.get_raw_div()
 
@@ -207,18 +238,24 @@ def main():
     # print(len(split_div.father_of_simple_div))
 
     split_div.get_father_of_all_simple_div()
-    for t in split_div.infor_father_of_all_simple_div:
-        print("@"*100)
-        print(t)
-        print("\n")
-        print(t['sample_list'])
-        print("\n")
-        for k in t['simple_raw_div_list']:
-            print('-'*80)
-            print(k)
-        for h in t['father_of_all_simple_div']:
-            print('~'*80)
-            print(h)
+    # for t in split_div.infor_father_of_all_simple_div:
+    #     print("@"*100)
+    #     print(t)
+    #     print("\n")
+    #     print(t['sample_list'])
+    #     print("\n")
+    #     for k in t['simple_raw_div_list']:
+    #         print('-'*80)
+    #         print(k)
+    #     for h in t['father_of_all_simple_div']:
+    #         print('~'*80)
+    #         print(h)
+    split_div.get_nearest_father()
+    for m in split_div.nearest_father:
+        print("!"*100)
+        print(m)
+
+    split_div.component()
 
 
 if __name__ == "__main__":
